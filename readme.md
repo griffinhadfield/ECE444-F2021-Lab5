@@ -1,6 +1,11 @@
 # Griffin Hadfield ECE444 Lab 5
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
+## Activity 1 
+
+![image](https://user-images.githubusercontent.com/38739044/137636538-be1c5683-df35-4439-841f-cfdd17e5d0d1.png)
+Image showing the repo was cloned to my github account.
+
 # CARTE Education Pathways
 
 ## Description
