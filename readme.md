@@ -3,8 +3,21 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 ## Activity 1 
 
+Image showing the repo was cloned to my github account:
 ![image](https://user-images.githubusercontent.com/38739044/137636538-be1c5683-df35-4439-841f-cfdd17e5d0d1.png)
-Image showing the repo was cloned to my github account.
+
+## Activity 2-5
+Home page:
+<img width="1920" alt="Screen Shot 2021-10-17 at 4 22 37 PM" src="https://user-images.githubusercontent.com/38739044/137643634-b3a4bd61-d4eb-44ed-baad-1691a7940960.png">
+
+
+Results Pages:
+<img width="1918" alt="Screen Shot 2021-10-17 at 4 23 17 PM" src="https://user-images.githubusercontent.com/38739044/137643636-b3912a58-6483-46f4-a5b7-fde2c776a13c.png">
+<img width="1920" alt="Screen Shot 2021-10-17 at 4 23 21 PM" src="https://user-images.githubusercontent.com/38739044/137643637-9ab43b03-56bc-4473-9b70-86f616d9e6c4.png">
+
+## Activity 6
+
+The main change between the old UI and the updated UI shown above is the improvement in the distinction between elements. The better seperation between elements is especially clear in the "results" section. The addition of row and column lines to the table, as well as improved text alignment, makes it much more easy to tell which information pertains to which coloumn/row heading. Even the sepearation between the search controls and the results improves usability. 
 
 # CARTE Education Pathways
 
